@@ -1,3 +1,3 @@
 const a = '222'
 
-console.log(a)
+console.log(a, 11)
